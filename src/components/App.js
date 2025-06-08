@@ -97,7 +97,7 @@ class App extends Component {
       <div>
         <nav className="navbar navbar-dark fixed-top bg-dark flex-md-nowrap p-0 shadow text-monospace text-white">
           <a className="navbar-brand col-sm-3 col-md-2 mr-0"
-            href="http://www.dappuniversity.com/bootcamp"
+            href=""
             target="_blank" rel="noopener noreferrer">
             <img src={chart} width="30" height="30" className="d-inline-block align-top" alt="" />
             Crypt0 Track3r
