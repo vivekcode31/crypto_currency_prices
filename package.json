@@ -1,7 +1,7 @@
 {
-  "name": "crypto_tracker",
+  "name": "crypto_currency_prices",
   "version": "0.1.0",
-  "description": "Cryptocurrency Tracker",
+  "description": "Cryptocurrency price",
   "author": "xternet",
   "homepage": ".",
   "dependencies": {
