@@ -2,7 +2,7 @@
   "name": "crypto_currency_prices",
   "version": "0.1.0",
   "description": "Cryptocurrency price",
-  "author": "xternet",
+  "author": "vivek",
   "homepage": ".",
   "dependencies": {
     "axios": "^0.20.0",
