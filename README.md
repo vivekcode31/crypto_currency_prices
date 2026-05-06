@@ -4,7 +4,7 @@
 This application is designed to display live cryptocurrency prices using JavaScript, HTML, and CSS. It leverages the CoinGecko API (or similar cryptocurrency API) to provide real-time data for users.
 
 ## Features
-- Live price updates for Bitcoin and other major cryptocurrencies.
+- Live price updates for Bitcoin and other important major cryptocurrencies.
 - User-friendly interface with HTML and CSS for a seamless experience.
 - Responsive design to ensure usability on various devices.
 
